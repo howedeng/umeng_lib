@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # android-example
 
 [![Release](https://img.shields.io/github/release/jitpack/android-example.svg?label=maven version)](https://jitpack.io/#jitpack/android-example)
@@ -49,3 +50,6 @@ If you add a sample app to the same repo then your app needs to have a dependenc
         compile project(':library')
     }
 ```
+=======
+# umeng_lib
+>>>>>>> 25adbe8de304fb450317c6503fca222a7bd2253c
